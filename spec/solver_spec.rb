@@ -12,7 +12,10 @@ describe 'Solver class' do
     context 'this tests for reverse' do
         it 'should tests for reverse strings' do
             reverse = Solver.new
-            expect(reverse.reverse())
+            expect(reverse.reverse('alena')).to eq 'anela'
+            expect(reverse.reverse('christy')).to eq 'ytsirhc'
+        end
+    end
 end
 
   
