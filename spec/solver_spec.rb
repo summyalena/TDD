@@ -16,6 +16,16 @@ describe 'Solver class' do
             expect(reverse.reverse('christy')).to eq 'ytsirhc'
         end
     end
-end
+    context 'when testing the fizzbuzz method' do
+        it 'Should return a string when fizzbuzz method is called with an intger' do
+          fizzbuzz = Solver.new
+          expect(fizzbuzz.fizzbuzz(1)).to eq '1'
+          expect(fizzbuzz.fizzbuzz(3)).to eq 'fizz'
+          expect(fizzbuzz.fizzbuzz(5)).to eq 'buzz'
+          expect(fizzbuzz.fizzbuzz(15)).to eq 'fizzbuzz'
+        end
+      end
+    end
+
 
   
