@@ -9,7 +9,8 @@ Technologies Used: GIT, GITHUB, LINTERS, Rspec, Ruby
 
 # Getting Started
 To get a local copy up and running follow these simple example steps:
-- To clone the github repo: git clone https://github.com/summyalena/TDD.git
+- To clone the github repo:
+-- git clone https://github.com/summyalena/TDD.git
 cd TDD
 On the command line, at the project's root, run bundle install to install app dependencies
 
