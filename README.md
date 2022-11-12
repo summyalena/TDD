@@ -1,14 +1,30 @@
-# TDD
+# TDD IN RUBY
 
-## This project is created to work on TDDs in ruby language
+> This project is created to work on TDDs in ruby language
 
-### Getting Started
+# Built With
+Languages: Ruby
 
-## Technologies used
+Technologies Used: GIT, GITHUB, LINTERS, Rspec, Ruby
 
-- Ruby
-- Rspec
-- GitFlow
+# Getting Started
+To get a local copy up and running follow these simple example steps:
+- To clone the github repo: git clone https://github.com/summyalena/TDD.git
+cd TDD
+On the command line, at the project's root, run bundle install to install app dependencies
+
+## Setup
+- To setup, kindly clone the github repo https://github.com/summyalena/TDD.git
+- Navigate to TDD file: cd TDD
+
+## Usage 
+To get a local copy up and running follow these simple example steps:
+- To clone the github repo: git clone https://github.com/summyalena/TDD.git
+cd TDD
+On the command line, at the project's root, run bundle install to install app dependencies
+
+## Install
+- npm run install
 
 ## Authors
 
