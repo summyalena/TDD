@@ -6,8 +6,7 @@
 
 ## Technologies used
 
-- Ruby (OOP concept)
-- Ruby best practices
+- Ruby
 - Rspec
 - GitFlow
 
